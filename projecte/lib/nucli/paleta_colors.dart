@@ -9,4 +9,7 @@ class PaletaColors {
   static const Color primari = Color(0xFF4D4E8D);
   static const Color secundari = Color(0xFFAB6667);
   static const Color destacat = Color(0xFF67AB66);
+
+
+  static const Color fonsTarjeta = Color(0xFFFFE0F0);
 }

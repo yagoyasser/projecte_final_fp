@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:projecte/components/barra_navegacio_inferior.dart';
 import 'package:projecte/nucli/paleta_colors.dart';
-import 'package:projecte/pantalles/pantalla_buscador.dart';
-import 'package:projecte/pantalles/pantalla_favorits.dart';
-import 'package:projecte/pantalles/pantalla_inici.dart';
-import 'package:projecte/pantalles/pantalla_perfil.dart';
+import 'package:projecte/pantalles_principals/pantalla_buscador.dart';
+import 'package:projecte/pantalles_principals/pantalla_favorits.dart';
+import 'package:projecte/pantalles_principals/pantalla_inici.dart';
+import 'package:projecte/pantalles_principals/pantalla_perfil.dart';
 
 void main() {
   runApp(const MainApp());
